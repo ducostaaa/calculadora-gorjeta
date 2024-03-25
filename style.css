@@ -65,3 +65,13 @@ main{
     outline:2px solid var(--light-green);
 
 }
+.gorjeta div{
+    border: 1px solid red;
+    margin-top:1rem ;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+.gorjeta #outra{
+    width: 100%;
+}
