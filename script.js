@@ -26,8 +26,11 @@ botoesgorjeta.foreach(botao => ){
 }
 console.log(porcentagem)
 
-
+contaInput.value = ""
 
 
 pessoasInput.value = ""
 gorjetainput.value = ""
+conta = 0
+porcentagem = 0
+pessoas = 0
