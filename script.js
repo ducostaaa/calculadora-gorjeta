@@ -25,3 +25,9 @@ botoesgorjeta.foreach(botao => ){
     botao.addEventListener("click", receberporcentagem)
 }
 console.log(porcentagem)
+
+
+
+
+pessoasInput.value = ""
+gorjetainput.value = ""
